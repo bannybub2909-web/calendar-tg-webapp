@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 16px;
+  background: #f7f7f7;
+}
+
+h2 {
+  margin-bottom: 12px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background: #2a9df4;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
